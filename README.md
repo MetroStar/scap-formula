@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/plus3it/scap-formula.svg)](./LICENSE)
-[![Travis Build Status](https://travis-ci.org/plus3it/scap-formula.svg?branch=master)](https://travis-ci.org/plus3it/scap-formula)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/scap-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/scap-formula)
+[![license](https://img.shields.io/github/license/MetroStar/scap-formula.svg)](./LICENSE)
+[![Travis Build Status](https://travis-ci.org/MetroStar/scap-formula.svg?branch=master)](https://travis-ci.org/MetroStar/scap-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/scap-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/scap-formula)
 
 # scap-formula
 Salt formula to run SCAP scans. To learn more about SCAP, see these links:

@@ -42,7 +42,7 @@ Note: For some distributions, the `git` and `make` tools are part of a
 
 To set up the `scap-formula` content for local modifications:
 
-1.  Fork the [scap-formula](https://github.com/plus3it/scap-formula) repository
+1.  Fork the [scap-formula](https://github.com/MetroStar/scap-formula) repository
     (look for the `Fork` button).
 
 1.  Clone your fork locally:
@@ -51,10 +51,10 @@ To set up the `scap-formula` content for local modifications:
     git clone https://github.com/<GITHUB_USERID>/scap-formula.git && cd scap-formula
     ```
 
-1.  Add the main (plus3it) project as a remote:
+1.  Add the main (MetroStar) project as a remote:
 
     ```shell
-    git remote add upstream https://github.com/plus3it/scap-formula.git
+    git remote add upstream https://github.com/MetroStar/scap-formula.git
     ```
 
 1. Ensure all remotes'/branches' contents are fully up-to-date:

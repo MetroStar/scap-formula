@@ -25,6 +25,6 @@ print scap help:
             scap.scc
             scap.scc.scan
 
-        See https://github.com/plus3it/scap-formula for more details.
+        See https://github.com/MetroStar/scap-formula for more details.
 
 {%- endif %}
